@@ -47,8 +47,8 @@ npm start
 
 Projekt létrehozó parancsok:
 ```python
-django-admin startproject myproject
-django-admin startapp myapp
+django-admin startproject demo
+django-admin startapp app
 ```
 
 ```bash
