@@ -1,11 +1,3 @@
----
-title: "README_Installation"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Django:
 
 ## 1. Érdemes létrehozni egy virtuális környezetet a Python függőségeknek:
